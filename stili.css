@@ -18,6 +18,7 @@ font-size: 32px;
   color: black; 
   border: 2px solid #3366ff;
   padding: 10px 20px;
+  cursor: pointer;
 }
 
 .button1:hover {
@@ -30,6 +31,7 @@ font-size: 32px;
   color: black;
   border: 2px solid #ff0000;
   padding: 10px 20px;
+  cursor: pointer;
 }
 
 .button2:hover {
