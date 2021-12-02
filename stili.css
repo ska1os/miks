@@ -53,6 +53,9 @@
   border: 2px solid #ff0000;
   padding: 10px 20px;
   cursor: pointer;
+  position: absolute;
+  top: 62%;
+  right: 55%;
   
 }
 .button2:hover {
