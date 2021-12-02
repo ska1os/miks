@@ -36,6 +36,9 @@
   border: 2px solid #3366ff;
   padding: 10px 20px;
   cursor: pointer;
+  position: absolute;
+  top: 90%;
+  left: 80%;
   
 }
 
