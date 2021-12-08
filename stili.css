@@ -39,6 +39,7 @@
   position: absolute;
   top: 58%;
   left: 55%;
+  border-radius: 12px;
   
 }
 
@@ -56,6 +57,7 @@
   position: absolute;
   top: 58%;
   right: 56%;
+  border-radius: 12px;
   
 }
 .button2:hover {
